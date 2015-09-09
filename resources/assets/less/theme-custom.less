@@ -1,0 +1,229 @@
+body, html {
+	background-color:#fff;
+}
+
+.btn {
+	border-radius:20px;
+}
+
+/*
+	NAVBAR
+ */
+nav.navbar-inverse {
+	border-radius:0; 
+	border-bottom:4px solid silver;
+	margin-bottom:0;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    text-transform: uppercase;
+}
+
+.navbar-brand {
+	font-size:20px;  
+	font-weight:800;
+}
+
+img.allied-logo {
+	height:100%; 
+	margin-top:0; 
+	margin-right:8px;
+}
+
+/*
+	FRONT PAGE HEADER
+ */
+
+.front-header-container {
+	background-color: @brand-primary;
+	background-image: url('../images/pattern-1.png');
+}
+
+.front-header {
+    padding: 20px 40px;
+	color: rgba(255,255,255, .8);
+	font-size:28px;
+}
+
+.front-header-text, .front-header-text-2 {
+	font-size:14px; 
+	font-weight:100; 
+	color: rgba(255,255,255, .8);
+	display:block;
+}
+
+.front-header-text-2 {
+	display:none;
+}
+
+/*
+	PAGE HEADER
+ */
+
+.page-header-container {
+	background-color: @brand-primary;
+	background-image: url('../images/pattern-1.png');
+	margin:0;
+	margin-bottom:40px;
+}
+
+.standard-page-header {
+	padding: 20px 0px;
+	color: rgba(255,255,255, .8);
+	font-size:20px;
+}
+
+
+/* 
+	FRONT PAGE WELL + BUTTONS
+*/
+
+.front-page-well {
+	padding: 30px 20px;
+	font-size:17px;
+	background-color: lighten(#9AB4CD, 20%);
+	background-image: url('../images/pattern-1.png');
+	margin-bottom:42px;
+	margin-top:40px;
+}
+
+.page-well {
+	padding: 30px 20px;
+	font-size:17px;
+	background-color: lighten(#9AB4CD, 20%);
+	background-image: url('../images/pattern-1.png');
+	margin-bottom:42px;
+	margin-top:20px;
+}
+
+.front-page-buttons {
+	text-align:center;
+}
+
+
+/*
+	DIVISIONS
+ */
+.divisions-header {
+	text-align:center; 
+	border-bottom:2px solid #eee; 
+	padding-bottom:8px; 
+	margin-bottom:30px;
+}
+
+.divisions ul {
+	list-style-type: none;
+	padding:0;
+	margin:0;
+}
+
+.divisions ul > li {
+	margin-bottom:34px;
+}
+
+.divisions ul > li h4{
+	font-size:20px;
+}
+
+.client-logos {
+	text-align:center;
+}
+
+
+.container {
+	max-width:1070px;
+}
+
+
+.color-info {
+	color: @brand-info;
+}
+
+.color-primary {
+	color: @brand-primary;
+}
+
+.background-primary {
+	background-color: @brand-primary;
+}
+
+/*
+	SITE FOOTER
+ */
+
+.site-footer {
+	background: lighten(#272727, 12%);
+	color: rgba(255,255,255, .8);
+	padding: 40px;
+}
+
+.site-footer h4 {
+	padding-bottom:8px;
+	border-bottom: 2px solid @brand-primary;
+}
+
+.site-footer a {
+	color: rgba(255,255,255, .8);	
+}
+
+/* 
+	BREAK POINTS
+
+*/
+
+#allied-logo {
+	height:20px;
+}
+
+@media (min-width: 500px) {
+
+	img.allied-logo {
+		height:160%; 
+		margin-top:-6px; 
+		margin-right:8px;
+	}
+
+	.navbar-brand {
+		font-size:26px;  
+		font-weight:800;
+	}
+
+	.front-header-container {
+		background-color: @brand-primary;
+		background-image: url('../images/pattern-1.png');
+		margin:0;
+	}
+
+	.front-header {
+		background-image: url('../images/globe-background.png');
+	    background-size: contain;
+	    background-repeat: no-repeat;
+	    min-height:320px;
+	    position:relative;
+	}
+
+	.front-header-text-2 {
+
+		font-size:32px; 
+		font-weight:100; 
+		color: rgba(255,255,255, .8);
+		position: absolute;
+		top: 50%;
+		-webkit-transform: translateY(-50%);
+		-ms-transform: translateY(-50%);
+		transform: translateY(-50%);
+		display:block;
+	}
+
+	.front-header-text {
+		display:none;
+	}
+
+	.standard-page-header {
+		padding: 20px 0px;
+		color: rgba(255,255,255, .8);
+		font-size:28px;
+	}
+
+
+}
