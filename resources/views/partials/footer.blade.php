@@ -24,11 +24,11 @@
 			<i class="fa fa-envelope"></i> &nbsp; Email: <a href="mailto:hrvp@alliedsearchco.com">hrvp@alliedsearchco.com</a>
 		</div>
 	</div>
-	<br>
-	<br>
+	
 	
 	<div class="row">
 		<div class="col-lg-12 col-md-12 col-sm-12" style="text-align:center;">
+			<br><br>
 			<i class="fa fa-copyright"></i> 2015 Allied Search Co 
 		</div>
 	</div>
