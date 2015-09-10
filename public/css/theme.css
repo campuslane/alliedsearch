@@ -8847,7 +8847,7 @@ nav.navbar-inverse {
 .site-footer {
   background: #464646;
   color: rgba(255, 255, 255, 0.8);
-  margin: 40px 0;
+  padding: 40px 0;
   width: 100%;
 }
 .site-footer h4 {
