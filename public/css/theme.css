@@ -8848,6 +8848,7 @@ nav.navbar-inverse {
   background: #464646;
   color: rgba(255, 255, 255, 0.8);
   padding: 40px;
+  width: 100%;
 }
 .site-footer h4 {
   padding-bottom: 8px;
@@ -8862,7 +8863,7 @@ nav.navbar-inverse {
 */
 @media (min-width: 768px) {
   #allied-logo {
-    height: 160%;
+    height: 34px;
     margin-top: -6px;
     margin-right: 8px;
   }

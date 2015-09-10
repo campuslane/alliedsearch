@@ -7,7 +7,7 @@
 			<a href="/candidate">For Candidates</a> <br>
 			<a href="/resume">Submit Resume</a> <br>
 			<a href="/client">For Cient Companies</a> <br>
-			<a href="/contact">Contact Form</a> <br>
+			<a href="/contact">Contact Us</a> <br>
 
 		</div>
 		<div class="col-lg-4 col-md-4 col-sm-4">
