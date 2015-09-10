@@ -10,7 +10,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand"  href="/"><img class="allied-logo" src="/images/allied-logo.jpg" align="left" alt=""><span>ALLIED</span><span style="font-weight:100; margin-left:2px;">SEARCH</span></a>
+      <a class="navbar-brand"  href="/"><img id="allied-logo" src="/images/allied-logo.jpg" align="left" alt=""><span>ALLIED</span><span style="font-weight:100; margin-left:2px;">SEARCH</span></a>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
