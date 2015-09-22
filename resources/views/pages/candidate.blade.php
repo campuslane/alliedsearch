@@ -25,7 +25,7 @@
       the applicant for our services and all information is confidential. 
       <br><br>
      
-      <a href="/resume" class="btn btn-primary btn"><i class="fa fa-file-text"></i> Contact Allied Search</a>  
+      <a href="/contact" class="btn btn-primary btn"><i class="fa fa-file-text"></i> Contact Allied Search</a>  
     </div>
     <hr>
 
