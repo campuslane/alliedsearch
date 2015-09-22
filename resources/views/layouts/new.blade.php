@@ -5,6 +5,12 @@
 	<title>@yield('title')</title>
 	<link rel="stylesheet" href="/css/theme.css">
 	@yield('styles')
+
+	<style>
+		.site-footer h4 {
+			margin-top:12px;
+		}
+	</style>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
