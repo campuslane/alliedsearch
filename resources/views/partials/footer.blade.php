@@ -5,7 +5,7 @@
 			<h4>SITE</h4>
 			<a href="/">Home</a> <br>
 			<a href="/candidate">For Candidates</a> <br>
-			<a href="/resume">Submit Resume</a> <br>
+			{{-- <a href="/resume">Submit Resume</a> <br> --}}
 			<a href="/client">For Cient Companies</a> <br>
 			<a href="/contact">Contact Us</a> <br>
 

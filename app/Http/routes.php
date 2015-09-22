@@ -23,9 +23,9 @@ get('candidate', function() {
 	return view('pages.candidate');
 });
 
-get('resume', function() {
-	return view('pages.resume');
-});
+// get('resume', function() {
+// 	return view('pages.resume');
+// });
 
 get('client', function() {
 	return view('pages.client');

@@ -22,10 +22,10 @@
   <div class="col-lg-8 col-md-8 col-sm-8">
     <div class="well page-well" >
       <strong>Allied Search</strong> recruits applicants for a full range of positions in a variety professions and industries.  There is no charge to 
-      the applicant for our services and all information is confidential. Submit your resume or call us today. 
+      the applicant for our services and all information is confidential. 
       <br><br>
      
-      <a href="/resume" class="btn btn-primary btn"><i class="fa fa-file-text"></i> Submit Your Resume</a>  
+      <a href="/resume" class="btn btn-primary btn"><i class="fa fa-file-text"></i> Contact Allied Search</a>  
     </div>
     <hr>
 
