@@ -4,14 +4,23 @@
 
 {{-- page header section --}}
 @section('header')
-<div class="page-header-container" style="margin-bottom:0;">
-		<div class="container">
-			<div class="standard-page-header">
-				Professional and Executive Search
+	<div class="front-header-container">
+	<div class="container front-header">
+		<div class="row">
+			<div class="col-lg-offset-5 col-md-offset-5 col-sm-offset-6">
+				<div class="front-header-text">
+					Professional & Executive Search Services
+				</div>
+
+				<div class="front-header-text-2">
+					Professional & Executive <br> Search Services
+				</div>
+
 			</div>
 		</div>
+
 	</div>
-	
+	</div>
 @endsection
 
 
