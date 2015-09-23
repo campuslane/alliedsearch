@@ -8,7 +8,7 @@
 
 	<style>
 		.site-footer h4 {
-			margin-top:12px;
+			margin-top:18px;
 		}
 	</style>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
